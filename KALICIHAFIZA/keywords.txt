@@ -1,0 +1,13 @@
+onAnahtarYaz	KEYWORD1
+nodeIdYuksekYaz	KEYWORD2
+nodeIdDusukYaz	KEYWORD3
+MACYaz	KEYWORD4
+pinYaz	KEYWORD5
+etiketYaz	KEYWORD6
+kaydet	KEYWORD7
+kurulum	KEYWORD8
+MACGetir	KEYWORD9
+onAnahtarGetir	KEYWORD10
+nodeIdYuksekGetir	KEYWORD11
+nodeIdDusukGetir	KEYWORD12
+pinGetir	KEYWORD13
