@@ -1,7 +1,8 @@
 # Ses Tanıma İle Eşya Bulma Sistemi
 
 NodeMCU kartlar için tasarlanmıştır. Android uygulamasıyla birlikte kullanılır. (Önerilen minimum NodeMCU cihaz adedi: 3)
-KALICIHAFIZA kütüphanesi Arduino/libraries dizinine eklenmelidir.
+
+KALICIHAFIZA klasörü Arduino/libraries dizinine eklenmelidir.
 
 Detaylı bilgi ve Android tarafı için: https://github.com/melihcelenk/EsyaBulmaSistemi_Android
 
